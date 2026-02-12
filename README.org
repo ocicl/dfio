@@ -4,7 +4,7 @@ Read data to and from data frames
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/Lisp-Stat/dfio.git   |
-| commit  | 3399137  |
+| commit  | f2e51c7  |
 | systems | dfio |
 |---------+-------------------------------------------|
 
